@@ -44,11 +44,8 @@ Delete departments, roles, and employees (one row at a time)
   ## Questions
   For more information you can reach out to me at rdcerp@gmail.com 
   or you can find me on GitHub at https://github.com/rdcerp
-  You can run the app by clicking the following link. https://watch.screencastify.com/v/ihkH5kKiHhGsDWq6jnJy![image](https://user-images.githubusercontent.com/109607056/201369019-c2fa069d-f3ca-4769-937e-63121b4adf82.png)
-
-
+  You can demo the app by clicking the following link. https://watch.screencastify.com/v/ihkH5kKiHhGsDWq6jnJy!
   
-  undefined
  
   ## Credits
   undefined
